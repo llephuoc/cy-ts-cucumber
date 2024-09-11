@@ -17,7 +17,7 @@ pnpm install
 Run the tests by using the following command:
 
 ```shell
-pnpm test
+pnpm start
 ```
 
 Generate the HTML reporter by using the following command:
