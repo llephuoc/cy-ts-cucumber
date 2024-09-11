@@ -1,4 +1,4 @@
-# Sample Cypress Cucumber
+# Cypress Cucumber Typescript
 
 This is a sample project for Cypress and Cucumber with Multiple HTML Cucumber Reporter.
 
@@ -11,17 +11,17 @@ Install PNPM by following the guide [here](https://pnpm.io/installation).
 Install the dependencies by running the following command:
 
 ```shell
-pnpm install
+npm install -f
 ```
 
 Run the tests by using the following command:
 
 ```shell
-pnpm start
+npm run start
 ```
 
 Generate the HTML reporter by using the following command:
 
 ```shell
-pnpm report
+npm run report
 ```
